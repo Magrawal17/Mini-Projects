@@ -5,4 +5,5 @@ Currently it has only Python and C++ and will increase with more langugages that
 
 ### Hangman.py ###
 
-    :  ### This is a simple game very similar to the tradtional game which I have tried implementating using Python ###
+    :  ### This is a simple game very similar to the tradtional game which I have tried 
+    implementating using Python ###
